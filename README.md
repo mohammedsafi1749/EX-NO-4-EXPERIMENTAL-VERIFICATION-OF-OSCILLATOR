@@ -64,10 +64,14 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 | 2    |                    |                  |                |
 | 3    |                    |                  |                |
 | 4    |                    |                  |                |
-| 5    |
+| 5    
+
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/dc407a6f-5272-4937-afcf-e294ff335706" />
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/61a307d0-a797-4afe-ba77-d4ec730b33a8" />
 
 ---
 ## THEORY
@@ -133,8 +137,12 @@ Rf = 15K *2=30KΩ
 | 4    |                    |                  |                |
 | 5    |
 ---
+
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/e25825ea-6d61-4504-a048-848a2a212feb" />
+
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/61a307d0-a797-4afe-ba77-d4ec730b33a8" />
 
 ---
 ## RESULT:
