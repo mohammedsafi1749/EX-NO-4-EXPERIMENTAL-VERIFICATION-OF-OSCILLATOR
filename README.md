@@ -28,6 +28,7 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 
 
 ---
+
 ## CIRCUIT DIAGRAM
 
 RC PHASE SHIFT OSCILLATOR
@@ -79,9 +80,11 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 
 ---
 ## THEORY
- ##WIEN BRIDGE
+ ## WIEN BRIDGE
 A bridge circuit with two components connected in series and parallel combination is used to archived the required of phase shift of 0o. When the bridge is balanced the phase shift of 0o is achieved and the feedback signal is connected to the positive terminal; of Op-amp. So the Op-amp is acting as a non-inverting amplifier and the feedback network do not provide any phase shift.
+
 The frequency of oscillation is given by fo = 1/2πRC
+
 ## APPARATUS REQUIRED
 
 | S.No | Name of the Apparatus          | Range         | Quantity |
@@ -133,6 +136,7 @@ Rf = 15K *2=30KΩ
 3.	By adjusting the amplitude and frequency knobs of the function generator, appropriate input voltage is applied to the inverting input terminal of the Op- Amp.
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 ---
+
 ## TABULATION/OBSERVATION
 
 
